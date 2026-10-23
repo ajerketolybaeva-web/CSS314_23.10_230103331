@@ -1,0 +1,55 @@
+==================================================
+TASK 1: ROW-MAJOR VS COLUMN-MAJOR
+==================================================
+Student ID: 230103331
+Logical cores: 8
+Physical cores: 8
+Workers: 8
+Matrix size: 8000 x 8000
+Data type: <class 'numpy.float64'>
+
+Creating matrix...
+
+Running Mode A: Row-Major...
+Running Mode B: Column-Major...
+
+==================================================
+BENCHMARK RESULTS
+==================================================
+Student ID: 230103331
+Logical cores: 8
+Mode A (Row-Major): 16.98 ms
+Mode B (Column-Major): 93.39 ms
+Cache Penalty Factor: 5.50x
+
+Mode A sum: 32001313.671719
+Mode B sum: 32001313.671719
+==================================================
+akerketolybaeva@MacBook-Air-Akerke-3 / % /usr/local/bin/python3 /Users/akerketolybaeva/task1.py
+==================================================
+TASK 1: ROW-MAJOR VS COLUMN-MAJOR
+==================================================
+Student ID: 230103331
+Logical cores: 8
+Physical cores: 8
+Workers: 8
+Matrix size: 8000 x 8000
+Data type: <class 'numpy.float64'>
+
+Creating matrix...
+
+Running Mode A: Row-Major...
+Running Mode B: Column-Major...
+
+==================================================
+BENCHMARK RESULTS
+==================================================
+Student ID: 230103331
+Logical cores: 8
+Mode A (Row-Major): 21.15 ms
+Mode B (Column-Major): 98.36 ms
+Cache Penalty Factor: 4.65x
+
+Mode A sum: 32001313.671719
+Mode B sum: 32001313.671719
+==================================================
