@@ -1,0 +1,26 @@
+=======================================================
+TASK 3: PARALLEL PREFIX SCAN
+=======================================================
+Student ID: 2301033331
+Array size: 2,000,000
+Threads: 4
+
+Generating input array...
+
+Running Serial Prefix Scan...
+Running Parallel Prefix Scan...
+
+=======================================================
+BENCHMARK RESULTS
+=======================================================
+Serial Time: 333.54 ms
+Parallel Time: 11.86 ms
+Speedup: 28.1146x
+Verification Status: PASS
+
+Serial Final Sum: 11007786
+Parallel Final Sum: 11007786
+=======================================================
+
+Results saved to /Users/akerketolybaeva/Documents/аяу/task3_output.txt
+akerketolybaeva@MacBook-Air-Akerke-3 / % 
